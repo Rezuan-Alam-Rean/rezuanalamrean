@@ -1,0 +1,468 @@
+{
+    "success": true,
+    "user": {
+        "_id": "65b3a22c01d900ef97hsd44hae9",
+        "username": "rezuanalamrean",
+        "email": "rezuanalamrean.cse@gmail.com",
+        "role": "admin",
+        "about": {
+            "name": "Rezuan Alam Rean",
+            "title": "Software Developer",
+            "subTitle": "I develop  user interfaces and web applications",
+            "description": "  As a Software Developer with 1 years of experience, I have  a solid foundation in React, Next.js ,Redux, Tailwind CSS, Bootstrap, JavaScript, Html & CSS and familiar with Node.js, Express MongoDB ,  and UI & UX Design. I have also experience in Team work. Now i am currently learning TypeScript , Django , MySQL and practicing problem solving to expand my expertise.  I'm also a student of Computer Science and Engineering with a passion for coding. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems. ",
+            "quote": "Live the Life as you want",
+            "exp_year": "1",
+            "address": "Dhaka , Bangladesh",
+            "phoneNumber": "+8801780159656",
+            "contactEmail": "rezuanalamrean.cse@gmail.com",
+            "avatar": {
+                "public_id": "170628329060785634586",
+                "url": "https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/Profile%20Pic%201.jpg?raw=true"
+            },
+            "alternateAvatars": [
+                {
+                    "public_id": "2378438563571235237582635",
+                    "url": "https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/Rean%20Profile%20Pic%202.jpg?raw=true"
+                }
+            ]
+        },
+        "timeline": [
+            {
+                "company_name": "Tech Innovations Inc.",
+                "summary": "Contributed to the development of a cutting-edge mobile application aimed at revolutionizing the e-commerce industry. ",
+                "sequence": 1,
+                "icon": {
+                    "public_id": "portfolio3/1710357917833-0mic4.png",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357917833-0mic4.png"
+                },
+                "startDate": "2024-01-03T00:00:00.000Z",
+                "endDate": "2024-03-08T00:00:00.000Z",
+                "jobTitle": "Software Engineer",
+                "jobLocation": "San Francisco, CA",
+                "bulletPoints": [
+                    "Implemented core features and functionalities using React Native.",
+                    "Collaborated closely with designers and product managers to iterate on user feedback.",
+                    "Conducted code reviews and provided constructive feedback to team members.",
+                    "Resolved complex technical challenges to ensure the smooth operation of the application.",
+                    "Participated in daily stand-up meetings and sprint planning sessions."
+                ],
+                "forEducation": false,
+                "enabled": true,
+                "_id": "65f1fd9e0556c3f887e9d9d8"
+            }
+        ],
+        "skills": [
+            {
+                "enabled": true,
+                "name": "C++",
+                "sequence": 17,
+                "percentage": 87,
+                "image": {
+                    "public_id": "1706288734207-4rlz3m",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
+                    "_id": "65b3e661b48589dfcae187f8"
+                },
+                "_id": "65b3e661b48589dfcae187f7"
+            },
+            {
+                "enabled": true,
+                "name": "Python",
+                "sequence": 16,
+                "percentage": 86,
+                "image": {
+                    "public_id": "1706288708710-nrq74s",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
+                    "_id": "65b3e645b48589dfcae187a3"
+                },
+                "_id": "65b3e645b48589dfcae187a2"
+            },
+            {
+                "enabled": true,
+                "name": "Figma",
+                "sequence": 15,
+                "percentage": 95,
+                "image": {
+                    "public_id": "1706287138776-slfc3e",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287138776-slfc3e",
+                    "_id": "65b3e023b48589dfcae18289"
+                },
+                "_id": "65b3e023b48589dfcae18288"
+            },
+            {
+                "enabled": true,
+                "name": "TypeScript",
+                "sequence": 6,
+                "percentage": 90,
+                "image": {
+                    "public_id": "1706287104739-pm8en",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+                    "_id": "65b3e001b48589dfcae18246"
+                },
+                "_id": "65b3e001b48589dfcae18245"
+            },
+            {
+                "enabled": true,
+                "name": "Node.js",
+                "sequence": 7,
+                "percentage": 92,
+                "image": {
+                    "public_id": "1706286990341-tznh4",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4",
+                    "_id": "65b3df8fb48589dfcae18205"
+                },
+                "_id": "65b3df8fb48589dfcae18204"
+            },
+            {
+                "enabled": true,
+                "name": "MongoDB",
+                "sequence": 13,
+                "percentage": 70,
+                "image": {
+                    "public_id": "1706286966065-p2yrx9",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9",
+                    "_id": "65b3df76b48589dfcae181c6"
+                },
+                "_id": "65b3df76b48589dfcae181c5"
+            },
+            {
+                "enabled": true,
+                "name": "Redux",
+                "sequence": 7,
+                "percentage": 95,
+                "image": {
+                    "public_id": "1706286913147-nwiky8",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286913147-nwiky8",
+                    "_id": "65b3df41b48589dfcae1814e"
+                },
+                "_id": "65b3df41b48589dfcae1814d"
+            },
+            {
+                "enabled": true,
+                "name": "Javascript",
+                "sequence": 3,
+                "percentage": 95,
+                "image": {
+                    "public_id": "1706288679775-y4qwn3",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
+                    "_id": "65b3e628b48589dfcae18750"
+                },
+                "_id": "65b3df24b48589dfcae18114"
+            },
+            {
+                "enabled": true,
+                "name": "Git",
+                "sequence": 12,
+                "percentage": 95,
+                "image": {
+                    "public_id": "1706286842731-r0eyn",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+                    "_id": "65b3defbb48589dfcae180de"
+                },
+                "_id": "65b3defbb48589dfcae180dd"
+            },
+            {
+                "enabled": true,
+                "name": "Github",
+                "sequence": 11,
+                "percentage": 95,
+                "image": {
+                    "public_id": "1706286821409-21cuqs",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
+                    "_id": "65b3dee5b48589dfcae180a9"
+                },
+                "_id": "65b3dee5b48589dfcae180a8"
+            },
+            {
+                "enabled": true,
+                "name": "Vercel",
+                "sequence": 7,
+                "percentage": 90,
+                "image": {
+                    "public_id": "1706286729467-rbblgb",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb",
+                    "_id": "65b3de89b48589dfcae18016"
+                },
+                "_id": "65b3de89b48589dfcae18015"
+            },
+            {
+                "enabled": true,
+                "name": "Next.js",
+                "sequence": 6,
+                "percentage": 90,
+                "image": {
+                    "public_id": "1706286682511-rgp96r",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+                    "_id": "65b3de5bb48589dfcae17fe9"
+                },
+                "_id": "65b3de5bb48589dfcae17fe8"
+            },
+            {
+                "enabled": true,
+                "name": "React",
+                "sequence": 5,
+                "percentage": 90,
+                "image": {
+                    "public_id": "1706291833080-0loo09",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+                    "_id": "65b3f27aeb20546ae6d49e76"
+                },
+                "_id": "65b3de41b48589dfcae17fbd"
+            },
+            {
+                "enabled": true,
+                "name": "Tailwind",
+                "sequence": 4,
+                "percentage": 99,
+                "image": {
+                    "public_id": "1706286616701-2jka3q",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+                    "_id": "65b3de19b48589dfcae17f95"
+                },
+                "_id": "65b3de19b48589dfcae17f94"
+            },
+            {
+                "enabled": true,
+                "name": "CSS",
+                "sequence": 2,
+                "percentage": 97,
+                "image": {
+                    "public_id": "1706286273084-romle",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+                },
+                "_id": "65b3dcc1b48589dfcae17e4d"
+            },
+            {
+                "name": "HTML",
+                "sequence": 1,
+                "percentage": 98,
+                "image": {
+                    "public_id": "1706286058630-v3ax0a",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+                },
+                "_id": "65b3dbeba5c8d2db7b6164bc",
+                "enabled": true
+            }
+        ],
+        "youtube": [
+            {}
+        ],
+        "projects": [
+            {
+                "liveurl": "https://asset-hexa.web.app",
+                "server_link": "https://github.com/NFRIDOY/Asset-Hexa-Server",
+                "client_link": "https://github.com/NFRIDOY/Asset-Hexa",
+                "title": "Asset Hexa",
+                "sequence": 1,
+                "image": {
+                    "public_id": "1706285511679-xe7r9t",
+                    "img1": "https://i.ibb.co/N6QXmqB/Screenshot-2024-03-07-025145.png",
+                    "img2": "https://i.ibb.co/KrnTRBD/Screenshot-2024-03-07-025223.png",
+                    "img3": "https://i.ibb.co/71Q0GLr/Screenshot-2024-03-07-025313.png",
+                    "img4": "https://i.ibb.co/KrXgmG9/Screenshot-2024-03-07-025616.png"
+                },
+                "description": "This project is primarily about managing money, providing financial guidelines, and facilitating investment in businesses. In this project, users can create accounts and add daily income and expenses. They can also view their transactions and write money management blogs. Any user can like and comment on the blogs. Users can add their businesses with proper information. All users can also invest in businesses. There are two kinds of roles in our project, admin and guest. Admins can manage users and verify blogs and business posts.",
+                "techStack": [
+                    " React router",
+                    "React ",
+                    "tanstack-query",
+                    "axios",
+                    "Redux",
+                    "framer motion",
+                    "react stripe js",
+                    "react-responsive carousel",
+                    "TailwindCSS",
+                    "DaisyUI",
+                    "Firebase Authentication",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "_id": "65b3d9c8d017f6b49c778ca7",
+                "enabled": true
+            },
+            {
+                "liveurl": "https://b8a12-client-side-rezuan-alam-rean.vercel.app/",
+                "server_link": "https://github.com/Rezuan-Alam-Rean/building-management-server",
+                "client_link": "https://github.com/Rezuan-Alam-Rean/building-management-client",
+                "title": "building-management",
+                "sequence": 2,
+                "image": {
+                    "public_id": "1706285511679-xe7r9t",
+                    "img1": "https://i.ibb.co/bJyD236/Screenshot-2023-12-11-223125.png",
+                    "img2": "https://i.ibb.co/bJyD236/Screenshot-2023-12-11-223125.png",
+                    "img3": "https://i.ibb.co/bJyD236/Screenshot-2023-12-11-223125.png",
+                    "img4": "https://i.ibb.co/bJyD236/Screenshot-2023-12-11-223125.png"
+                },
+                "description": "Building Management is a comprehensive platform designed to streamline it also optimize the management of various aspects within buildings. It offers tools and resources for efficient building administration, maintenance, and operational management.",
+                "techStack": [
+                    "React ",
+                    " React router",
+                    "React hook form",
+                    "tanstack-query",
+                    "axios",
+                    "framer motion",
+                    "react stripe js",
+                    "react-responsive carousel",
+                    "TailwindCSS",
+                    "DaisyUI",
+                    "Firebase Authentication",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "_id": "65b3d9c8d017f6b49c778ca7",
+                "enabled": true
+            },
+            {
+                "liveurl": "https://online-group-study-client.vercel.app/",
+                "server_link": "https://github.com/Rezuan-Alam-Rean/Online-Group-Study-server",
+                "client_link": "https://github.com/Rezuan-Alam-Rean/Online-Group-Study-client",
+                "title": "Online-Group-Study",
+                "sequence": 3,
+                "image": {
+                    "public_id": "1706285511679-xe7r9t",
+                    "img1": "https://i.ibb.co/BNZQqF4/Screenshot-2023-12-11-223305.png",
+                    "img2": "https://i.ibb.co/BNZQqF4/Screenshot-2023-12-11-223305.png",
+                    "img3": "https://i.ibb.co/BNZQqF4/Screenshot-2023-12-11-223305.png",
+                    "img4": "https://i.ibb.co/BNZQqF4/Screenshot-2023-12-11-223305.png"
+                },
+                "description": "Online-Group-Study offers a wide range of educational resources and assignments to support your learning needs. From a variety of study materials to assignment solutions that will help you excel in your academic pursuits, we have everything to make your studying experience more effective and enjoyable.We understand that learning is a top priority, so we ensure that all our products meet the highest quality standards and are designed to support your educational goals.",
+                "techStack": [
+                    "React ",
+                    " React router",
+                    "React hook form",
+                    "Firebase Authentication",
+                    "TailwindCSS",
+                    "DaisyUI",
+                    "Firebase Authentication",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "_id": "65b3d9c8d017f6b49c778ca7",
+                "enabled": true
+            },
+            {
+                "liveurl": "https://brandshop-client.vercel.app/",
+                "server_link": "https://github.com/Rezuan-Alam-Rean/brandshop-server",
+                "client_link": "https://github.com/Rezuan-Alam-Rean/brandshop-client",
+                "title": "Brand Shop",
+                "sequence": 4,
+                "image": {
+                    "public_id": "1706285511679-xe7r9t",
+                    "img1": "https://i.ibb.co/gtXhFnz/Screenshot-2023-12-11-222925.png",
+                    "img2": "https://i.ibb.co/gtXhFnz/Screenshot-2023-12-11-222925.png",
+                    "img3": "https://i.ibb.co/gtXhFnz/Screenshot-2023-12-11-222925.png",
+                    "img4": "https://i.ibb.co/gtXhFnz/Screenshot-2023-12-11-222925.png"
+                },
+                "description": "Brand Shop is an online platform dedicated to selling phones from a wide array of brands.It provides customers with a convenient and reliable avenue to explore and purchase smartphones from their favorite manufacturers.The platform offers a seamless shopping experience, showcasing the latest models and ensuring customer satisfaction through quality service.",
+                "techStack": [
+                    "React ",
+                    " React router",
+                    " React to print",
+                    "React lazy load",
+                    "React Bootstrap",
+                    "Swiper",
+                    "Firebase Authentication",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "_id": "65b3d9c8d017f6b49c778ca7",
+                "enabled": true
+            },
+            {
+                "liveurl": "https://stellular-cuchufli-925f21.netlify.app/",
+                "server_link": "https://stellular-cuchufli-925f21.netlify.app/",
+                "client_link": "https://github.com/Rezuan-Alam-Rean/Gaming-Conventions",
+                "title": "Gaming-Conventions",
+                "sequence": 5,
+                "image": {
+                    "public_id": "1706285511679-xe7r9t",
+                    "img1": "https://i.ibb.co/1mdPC6w/Screenshot-2023-12-11-223610.png",
+                    "img2": "https://i.ibb.co/1mdPC6w/Screenshot-2023-12-11-223610.png",
+                    "img3": "https://i.ibb.co/1mdPC6w/Screenshot-2023-12-11-223610.png",
+                    "img4": "https://i.ibb.co/1mdPC6w/Screenshot-2023-12-11-223610.png"
+                },
+                "description": "Gaming-Conventions is an online platform dedicated to selling Game from a wide array of brands.It provides customers with a convenient and reliable avenue to explore and purchase game from their favorite manufacturers.The platform offers a seamless shopping experience, showcasing the latest models and ensuring customer satisfaction through quality service.",
+                "techStack": [
+                    "React ",
+                    " React router",
+                    " React to print",
+                    "React lazy load",
+                    "React Bootstrap",
+                    "Swiper",
+                    "Firebase Authentication",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "_id": "65b3d9c8d017f6b49c778ca7",
+                "enabled": true
+            }
+        ],
+        "social_handles": [
+            {
+                "platform": "Instagram",
+                "url": "#",
+                "image": {
+                    "public_id": "1708718250873-3038n7.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+                },
+                "enabled": true,
+                "_id": "65b3ea4feb20546ae6d4641d"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "#",
+                "image": {
+                    "public_id": "1708718263294-2lfj67.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+                },
+                "enabled": true,
+                "_id": "65b3e99beb20546ae6d463c2"
+            },
+            {
+                "enabled": true,
+                "platform": "Twitter",
+                "url": "#",
+                "image": {
+                    "public_id": "1708718328750-d4jsq.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+                },
+                "_id": "65b3e47cb48589dfcae185bd"
+            },
+            {
+                "enabled": true,
+                "platform": "Facebook",
+                "url": "#",
+                "image": {
+                    "public_id": "1708718346601-xldm.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+                },
+                "_id": "65b3e43cb48589dfcae1856c"
+            }
+        ],
+        "services": [
+            {
+                "name": "App Development",
+                "charge": "$300",
+                "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
+                "enabled": true,
+                "_id": "65f1fd690556c3f887e9d94a",
+                "image": {
+                    "public_id": "portfolio3/1710364293287-4q1ngo.webp",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+                }
+            }
+        ],
+        "testimonials": [
+            {
+                "image": {
+                    "public_id": "portfolio3/1710357726628-c4dr18.png",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+                },
+                "name": "Samantha Wu",
+                "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+                "position": "Software Engineer",
+                "enabled": true,
+                "_id": "65f1fcdf0556c3f887e9d74c"
+            }
+        ]
+    }
+}

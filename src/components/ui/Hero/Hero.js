@@ -45,7 +45,7 @@ const Hero = () => {
                 <div className="flex flex-row justify-start mt-5 mb-5 space-x-4">
                     {socialHandles?.filter(item => item.enabled === true).map((social, index) => (
                         <a key={index} className="w-8 h-8" target="_blank" rel="nofollow" href={social.url}>
-                            <img className="w-full h-full object-cover rounded-full" src={social.image.url} alt={social.platform} />
+                            <img className="w-full h-full object-cover rounded-full" src={social?.image?.url} alt={social.platform} />
                         </a>
                     ))}
                 </div>
