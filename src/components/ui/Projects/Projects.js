@@ -93,6 +93,10 @@ const Projects = () => {
                 <p className='font-bold text-4xl mt-5 mb-4'> <span className='text-red-500' >My</span>  Projects</p>
                 <h2 className='font-mono' >I Have created this  this   responsive web applications that highlight the user’s experience. </h2>
             </div>
+
+            <div>
+                
+            </div>
             <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 px-6 md:px-0 mt-10  gap-5 max-w-7xl mx-auto ">
                 {currentProjects?.map((project, index) => <ProjectCard key={index} project={project} />)}
             </div>
