@@ -399,7 +399,7 @@
         "social_handles": [
             {
                 "platform": "Instagram",
-                "url": "#",
+                "url": "https://www.instagram.com/bhuiyanrean/",
                 "image": {
                     "public_id": "1708718250873-3038n7.webp",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
@@ -409,7 +409,7 @@
             },
             {
                 "platform": "LinkedIn",
-                "url": "#",
+                "url": "https://www.linkedin.com/in/rezuan-alam-rean/",
                 "image": {
                     "public_id": "1708718263294-2lfj67.webp",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
@@ -420,7 +420,7 @@
             {
                 "enabled": true,
                 "platform": "Twitter",
-                "url": "#",
+                "url": "https://twitter.com/RezuanAlamRean",
                 "image": {
                     "public_id": "1708718328750-d4jsq.webp",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
@@ -430,7 +430,7 @@
             {
                 "enabled": true,
                 "platform": "Facebook",
-                "url": "#",
+                "url": "https://www.facebook.com/rean.bhuiyan.94",
                 "image": {
                     "public_id": "1708718346601-xldm.webp",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
@@ -440,11 +440,11 @@
         ],
         "services": [
             {
-                "name": "App Development",
-                "charge": "$300",
+                "name": "Web Development",
+                "charge": "$100",
                 "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
                 "enabled": true,
-                "_id": "65f1fd690556c3f887e9d94a",
+                "_id": "65f1fd34345446c3f887e9d94a",
                 "image": {
                     "public_id": "portfolio3/1710364293287-4q1ngo.webp",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
