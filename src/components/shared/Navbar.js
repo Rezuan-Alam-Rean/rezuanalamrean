@@ -46,8 +46,8 @@ const Navbar = () => {
                             </div>
                         </ul>
                     </div>
-                    <a href="/" className="text-red-400 mt-4 mb-4 text-2xl font-serif">
-                        JOHN  <span className='text-white'>DOE</span>
+                    <a href="/" className="text-white mt-4 mb-4 text-2xl font-serif">
+                        Rezuan<span className='text-red-400'>Rean</span>
                     </a>
                 </div>
                 <div className="navbar-center hidden lg:flex">

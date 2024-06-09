@@ -9,7 +9,7 @@
             "name": "Rezuan Alam Rean",
             "title": "Software Developer",
             "subTitle": "I develop  user interfaces and web applications",
-            "description": "  As a Software Developer with 1 years of experience, I have  a solid foundation in React, Next.js ,Redux, Tailwind CSS, Bootstrap, JavaScript, Html & CSS and familiar with Node.js, Express MongoDB ,  and UI & UX Design. I have also experience in Team work. Now i am currently learning TypeScript , Django , MySQL and practicing problem solving to expand my expertise.  I'm also a student of Computer Science and Engineering with a passion for coding. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems. ",
+            "description": "As a Software Developer with 1 years of experience, I have  a solid foundation in React, Next.js ,Redux, Tailwind CSS, Bootstrap, JavaScript, Html & CSS and familiar with Node.js, Express MongoDB ,  and UI & UX Design. I have also experience in Team work. Now i am currently learning TypeScript , Django , MySQL and practicing problem solving to expand my expertise.  I'm also a student of Computer Science and Engineering with a passion for coding. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems. ",
             "quote": "Live the Life as you want",
             "exp_year": "1",
             "address": "Dhaka , Bangladesh",
@@ -19,12 +19,12 @@
                 "public_id": "170628329060785634586",
                 "url": "https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/Profile%20Pic%201.jpg?raw=true"
             },
-            "alternateAvatars": [
+            "alternateAvatars": 
                 {
                     "public_id": "2378438563571235237582635",
                     "url": "https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/Rean%20Profile%20Pic%202.jpg?raw=true"
                 }
-            ]
+            
         },
         "timeline": [
             {

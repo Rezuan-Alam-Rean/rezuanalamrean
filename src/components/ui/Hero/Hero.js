@@ -11,7 +11,7 @@ const Hero = () => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await axios.get('https://portfolio-backend-30mp.onrender.com/api/v1/get/user/65b3a22c01d900e96c4219ae');
+                const response = await axios.get('/data.json');
                 const data = response.data;
                 setLoading(false);
                 setAbout(data.user.about);
@@ -30,15 +30,15 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row px-6 md:px-20 py-5 bg-black text-white gap-4 lg:gap-20">
             <div className='w-full lg:w-1/2 p-4'>
                 <div className="text-white text-lg mt-4 font-semibold max-w-2xl">
-                    HELLO, <span className='text-red-400 '>MY NAME IS</span>
-                    <div className="text-red-400 mt-4 mb-4 text-8xl font-serif">
-                        JOHN  <span className='text-white'>DOE</span>
+                    HELLO, <span className='text-red-400 '>I am</span>
+                    <div className="text-white mt-4 mb-4 text-6xl font-serif">
+                        Rezuan Alam  <span className='text-red-400'>Rean</span>
                     </div>
-                    <span className="text-xl mt-6">
-                        I am a  {about?.title}
+                    <span className="text-2xl mt-6">
+                        {about?.title}
                     </span>
                 </div>
-                <p className="text-white mt-2 text-base font-thin whitespace-pre-wrap ">
+                <p className="text-white font-thin mt-2 text-sm font-serif whitespace-pre-wrap ">
                     {about?.description}
                 </p>
 
@@ -55,7 +55,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className='w-full h-full lg:w-1/2 p-4 relative '>
-                <img className="w-full max-h-[550px] object-cover rounded-full" src={about?.avatar?.url} />
+                <img className="w-full max-h-[550px] object-cover rounded-full" src={about?.alternateAvatars?.url} />
                 <div className="absolute bottom-28 left-0 bg-black border border-red-400 px-8 p-2 rounded-full ">
                     <span className="text-lg font-bold">
                         {about?.exp_year}

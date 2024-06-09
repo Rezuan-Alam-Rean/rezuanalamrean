@@ -26,7 +26,7 @@ const Services = () => {
                 <h2 className='font-mono' >I Provide Wide Range Of Digital Services</h2>
             </div>
 
-            <div className=" grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 px-4 md:px-0 mt-10  gap-5 max-w-7xl mx-auto   ">
+            <div className=" grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 px-4 md:px-0 mt-10  gap-5 max-w-7xl mx-auto     ">
                 {services?.filter(service => service?.enabled).map((service, index) => (
                     <div key={index} className={`p-2 md:p-5 cursor-pointer border transition-all duration-700 hover:scale-105 rounded  overflow-hidden shadow-lg bg-white `} >
                         <img className="w-full" src={service?.image?.url} alt={service?.name} />
