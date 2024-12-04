@@ -34,11 +34,11 @@ const Navbar = () => {
 
     return (
         <div>
-            <div className="navbar bg-black px-4 md:px-24">
+            <div className="navbar bg-slate-100 glass px-4 md:px-24">
                 <div className="navbar-start">
                     <div className="dropdown">
-                        <div tabIndex={0} role="button" className="btn text-white btn-ghost lg:hidden">
-                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 text-white w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+                        <div tabIndex={0} role="button" className="btn text-black btn-ghost lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 text-black w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
                         </div>
                         <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                             <div className=" text-black font-bold ">
@@ -46,13 +46,13 @@ const Navbar = () => {
                             </div>
                         </ul>
                     </div>
-                    <a href="/" className="text-white mt-4 mb-4 text-2xl font-serif">
+                    <a href="/" className="text-black mt-4 mb-4 text-2xl font-serif">
                         Rezuan<span className='text-red-400'>Rean</span>
                     </a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <div className="menu menu-horizontal px-1">
-                        <div className="flex text-white font-bold ">
+                        <div className="flex text-black font-bold ">
                             {menus}
                         </div>
                     </div>
