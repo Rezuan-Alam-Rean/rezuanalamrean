@@ -18,7 +18,7 @@ export default function Home() {
       <Services></Services>
       <Skills/>
       <Projects></Projects>
-      <Timeline></Timeline>
+      {/* <Timeline></Timeline> */}
       <Testimonials></Testimonials>
       <Contact></Contact>
     </div>

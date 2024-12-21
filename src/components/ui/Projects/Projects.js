@@ -3,10 +3,12 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import Link from 'next/link'
 const ProjectCard = ({ project }) => {
+    console.log(project);
+    
     return (
         <div className={`p-2 md:p-5 cursor-pointer border transition-all duration-700 hover:scale-105 rounded  overflow-hidden shadow-lg bg-white `}>
             <div className="">
-                <img className=" w-full " src={project?.image?.url} alt={project?.title} />
+                <img className=" w-full " src={project?.image?.img1} alt={project?.title} />
                 <div className="p-8">
                     <div className="mt-2">
                         {project?.techStack?.map((tech, index) => (

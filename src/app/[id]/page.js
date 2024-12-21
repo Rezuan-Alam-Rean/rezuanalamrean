@@ -1,4 +1,4 @@
-
+"use client"
 import Link from 'next/link'
 import { useState, useEffect } from 'react';
 import axios from 'axios';
@@ -38,7 +38,7 @@ const Details = ({ params }) => {
 
                     <div className=" mt-10 mb-10 px-4 sm:px-6 md:px-10 bg-white w-full mx-auto h-auto md:h-screen rounded-xl shadow-md overflow-hidden md:flex-row ">
                         <div className=" ">
-                            <img className=" h-96   w-full object-cover" src={project?.image?.url} alt={project?.title} layout="fill" />
+                            <img className=" h-96   w-full object-cover" src={project?.image?.img1} alt={project?.title} layout="fill" />
                         </div>
                         <div className="p-4 sm:p-6 md:p-8">
                             <div className="uppercase tracking-wide  text-black text-xl sm:text-2xl md:text-3xl font-semibold">{project?.title}</div>
