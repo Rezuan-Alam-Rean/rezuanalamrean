@@ -1,4 +1,3 @@
-"use client";
 
 import Contact from "@/components/ui/Contact/Contact";
 import Hero from "@/components/ui/Hero/Hero";

@@ -81,7 +81,7 @@ const Testimonials = () => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await axios.get('https://portfolio-backend-30mp.onrender.com/api/v1/get/user/65b3a22c01d900e96c4219ae');
+                const response = await axios.get('/data.json');
                 const data = response?.data;
                 setTestimonials(data?.user?.testimonials);
                 setIsLoading(false);

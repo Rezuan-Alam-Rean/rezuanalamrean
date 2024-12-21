@@ -1,4 +1,4 @@
-"use client";
+
 import Link from 'next/link'
 import { useState, useEffect } from 'react';
 import axios from 'axios';
@@ -10,7 +10,7 @@ const Details = ({ params }) => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await axios.get(`https://portfolio-backend-30mp.onrender.com/api/v1/get/user/65b3a22c01d900e96c4219ae`);
+                const response = await axios.get(`/data.json`);
                 const data = response?.data;
                 const project = data?.user?.projects.find(project => project?._id === params?.id);
                 setProject(project);
